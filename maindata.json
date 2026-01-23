@@ -1,0 +1,7 @@
+{
+    "project":"Wallypaper",
+    "available":["General","Neon","Vintage"],
+    "deactive":["Vintage"],
+    "new":["General","Neon"],
+    "trending":["Neon"]
+}

@@ -1,0 +1,6 @@
+{
+    "prefix":"General_",
+    "available":["07","08","09"],
+    "deactive":["09"],
+    "free":["07"]
+}
