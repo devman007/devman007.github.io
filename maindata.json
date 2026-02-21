@@ -3,7 +3,7 @@
     "available":["General","Neon","Vintage"],
     "deactive":["Vintage"],
     "new":["General","Neon"],
-    "trending":["Neon"],
+    "trending":["General"],
     "free":["01","02"],
     "next":"data.json"
 }
