@@ -1,0 +1,9 @@
+{
+    "prefix":"General_",
+    "available":["01","02","03","04","05"],
+    "deactive":["05"],
+    "new":["01","02"],
+    "trending":["01"],
+    "free":["01","03"],
+    "next":"config.json"
+}
