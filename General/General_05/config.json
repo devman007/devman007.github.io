@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "1.4",
+  "wallpaperId": "General_05",
+  "designFrame": {
+    "width": 412,
+    "height": 917,
+    "aspectRatio": 0.4493
+  },
+  "aspectPolicy": "cover",
+  "layers": [
+    {
+      "id": "bg",
+      "type": "image",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 1
+      },
+      "depth": 10,
+      "src": "bg.png"
+    },
+    {
+      "id": "time",
+      "type": "time",
+      "frame": {
+        "cx": 0.479369,
+        "cy": 0.456925,
+        "width": 0.759709,
+        "height": 0.209378
+      },
+      "depth": 20,
+      "textStyle": {
+        "fontFamily": "Poppins",
+        "fontStyle": "Medium",
+        "fontFullName": "Poppins-Medium",
+        "fontSrc": "font.ttf",
+        "fontSizeRatio": 1,
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PIXELS"
+        },
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "rotation": -3.1805546814635168e-15
+      },
+      "layout": "HH_MM"
+    },
+    {
+      "id": "date",
+      "type": "date",
+      "frame": {
+        "cx": 0.273058,
+        "cy": 0.587241,
+        "width": 0.17233,
+        "height": 0.035987
+      },
+      "depth": 30,
+      "textStyle": {
+        "fontFamily": "Poppins",
+        "fontStyle": "Medium",
+        "fontFullName": "Poppins-Medium",
+        "fontSrc": "font.ttf",
+        "fontSizeRatio": 1,
+        "color": {
+          "r": 1,
+          "g": 0.9777644276618958,
+          "b": 0.9777644276618958,
+          "a": 1
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PIXELS"
+        },
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "rotation": -3.1805546814635168e-15
+      },
+      "layout": "DD_SPACE_MMM"
+    },
+    {
+      "id": "fg",
+      "type": "image",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 1
+      },
+      "depth": 40,
+      "src": "fg.png"
+    }
+  ]
+}

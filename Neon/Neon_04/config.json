@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.4",
-  "wallpaperId": "General_08",
+  "wallpaperId": "Neon_04",
   "designFrame": {
     "width": 412,
     "height": 917,
@@ -24,10 +24,10 @@
       "id": "time",
       "type": "time",
       "frame": {
-        "cx": 0.499978,
-        "cy": 0.388611,
-        "width": 0.951456,
-        "height": 0.262814
+        "cx": 0.25,
+        "cy": 0.561614,
+        "width": 0.5,
+        "height": 0.525627
       },
       "depth": 20,
       "textStyle": {
@@ -36,41 +36,9 @@
         "fontFullName": "Poppins-Medium",
         "fontSizeRatio": 1,
         "color": {
-          "r": 0.3166317343711853,
-          "g": 0.3231603801250458,
-          "b": 0.3256084620952606,
-          "a": 0.5400000214576721
-        },
-        "letterSpacing": {
-          "value": 0,
-          "unit": "PIXELS"
-        },
-        "lineHeight": {
-          "unit": "AUTO"
-        },
-        "rotation": 30.00000044529205
-      },
-      "layout": "HH_MM"
-    },
-    {
-      "id": "date",
-      "type": "date",
-      "frame": {
-        "cx": 0.612747,
-        "cy": 0.46669,
-        "width": 0.364078,
-        "height": 0.041439
-      },
-      "depth": 30,
-      "textStyle": {
-        "fontFamily": "Poppins",
-        "fontStyle": "Medium",
-        "fontFullName": "Poppins-Medium",
-        "fontSizeRatio": 1,
-        "color": {
-          "r": 0,
-          "g": 0,
-          "b": 0,
+          "r": 0.9019607901573181,
+          "g": 0.007843137718737125,
+          "b": 0.21176470816135406,
           "a": 1
         },
         "letterSpacing": {
@@ -80,7 +48,39 @@
         "lineHeight": {
           "unit": "AUTO"
         },
-        "rotation": 30.00000044529205
+        "rotation": -3.1805546814635168e-15
+      },
+      "layout": "HH_NEWLINE_MM"
+    },
+    {
+      "id": "date",
+      "type": "date",
+      "frame": {
+        "cx": 0.587379,
+        "cy": 0.491821,
+        "width": 0.320388,
+        "height": 0.037077
+      },
+      "depth": 30,
+      "textStyle": {
+        "fontFamily": "Poppins",
+        "fontStyle": "Medium",
+        "fontFullName": "Poppins-Medium",
+        "fontSizeRatio": 1,
+        "color": {
+          "r": 0.9882352948188782,
+          "g": 0.7254902124404907,
+          "b": 0.9333333373069763,
+          "a": 1
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PIXELS"
+        },
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "rotation": -3.1805546814635168e-15
       },
       "layout": "DD_SPACE_MMM_SPACE_YYYY"
     },

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.4",
-  "wallpaperId": "General_07",
+  "wallpaperId": "General_04",
   "designFrame": {
     "width": 412,
     "height": 917,
@@ -24,8 +24,8 @@
       "id": "time",
       "type": "time",
       "frame": {
-        "cx": 0.792476,
-        "cy": 0.390403,
+        "cx": 0.499978,
+        "cy": 0.388611,
         "width": 0.951456,
         "height": 0.262814
       },
@@ -34,12 +34,13 @@
         "fontFamily": "Poppins",
         "fontStyle": "Medium",
         "fontFullName": "Poppins-Medium",
+        "fontSrc": "font.ttf",
         "fontSizeRatio": 1,
         "color": {
-          "r": 0.13333334028720856,
-          "g": 0.16470588743686676,
-          "b": 0.1764705926179886,
-          "a": 1
+          "r": 0.3166317343711853,
+          "g": 0.3231603801250458,
+          "b": 0.3256084620952606,
+          "a": 0.5400000214576721
         },
         "letterSpacing": {
           "value": 0,
@@ -48,7 +49,7 @@
         "lineHeight": {
           "unit": "AUTO"
         },
-        "rotation": 90.00000250447808
+        "rotation": 30.00000044529205
       },
       "layout": "HH_MM"
     },
@@ -56,8 +57,8 @@
       "id": "date",
       "type": "date",
       "frame": {
-        "cx": 0.065534,
-        "cy": 0.095965,
+        "cx": 0.612747,
+        "cy": 0.46669,
         "width": 0.364078,
         "height": 0.041439
       },
@@ -66,6 +67,7 @@
         "fontFamily": "Poppins",
         "fontStyle": "Medium",
         "fontFullName": "Poppins-Medium",
+        "fontSrc": "font.ttf",
         "fontSizeRatio": 1,
         "color": {
           "r": 0,
@@ -80,7 +82,7 @@
         "lineHeight": {
           "unit": "AUTO"
         },
-        "rotation": 90.00000250447808
+        "rotation": 30.00000044529205
       },
       "layout": "DD_SPACE_MMM_SPACE_YYYY"
     },

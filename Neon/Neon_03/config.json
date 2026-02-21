@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.4",
-  "wallpaperId": "General_09",
+  "wallpaperId": "Neon_03",
   "designFrame": {
     "width": 412,
     "height": 917,
@@ -24,10 +24,10 @@
       "id": "time",
       "type": "time",
       "frame": {
-        "cx": 0.479369,
-        "cy": 0.456925,
-        "width": 0.759709,
-        "height": 0.209378
+        "cx": 0.501214,
+        "cy": 0.372955,
+        "width": 0.609223,
+        "height": 0.167939
       },
       "depth": 20,
       "textStyle": {
@@ -36,9 +36,9 @@
         "fontFullName": "Poppins-Medium",
         "fontSizeRatio": 1,
         "color": {
-          "r": 1,
-          "g": 1,
-          "b": 1,
+          "r": 0.40392157435417175,
+          "g": 0.9254902005195618,
+          "b": 0.5215686559677124,
           "a": 1
         },
         "letterSpacing": {
@@ -48,7 +48,7 @@
         "lineHeight": {
           "unit": "AUTO"
         },
-        "rotation": -3.1805546814635168e-15
+        "rotation": -9.213866198408551e-15
       },
       "layout": "HH_MM"
     },
@@ -56,10 +56,10 @@
       "id": "date",
       "type": "date",
       "frame": {
-        "cx": 0.273058,
-        "cy": 0.587241,
-        "width": 0.17233,
-        "height": 0.035987
+        "cx": 0.5,
+        "cy": 0.29771,
+        "width": 0.364078,
+        "height": 0.041439
       },
       "depth": 30,
       "textStyle": {
@@ -68,9 +68,9 @@
         "fontFullName": "Poppins-Medium",
         "fontSizeRatio": 1,
         "color": {
-          "r": 1,
-          "g": 0.9777644276618958,
-          "b": 0.9777644276618958,
+          "r": 0.8384899497032166,
+          "g": 0.9778770804405212,
+          "b": 0.8506105542182922,
           "a": 1
         },
         "letterSpacing": {
@@ -80,9 +80,9 @@
         "lineHeight": {
           "unit": "AUTO"
         },
-        "rotation": -3.1805546814635168e-15
+        "rotation": -9.213866198408551e-15
       },
-      "layout": "DD_SPACE_MMM"
+      "layout": "DD_SPACE_MMM_SPACE_YYYY"
     },
     {
       "id": "fg",
