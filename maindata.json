@@ -1,7 +1,7 @@
 {
     "project":"Wallypaper",
     "available":["General","Neon","Vintage"],
-    "deactive":["Vintage"],
+    "deactive":[""],
     "new":["General","Neon"],
     "trending":["General"],
     "free":["01","02"],
