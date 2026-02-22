@@ -1,9 +1,9 @@
 {
     "prefix":"Vintage_",
-    "available":["01","02","03"],
+    "available":["01","02","03","04"],
     "deactive":[],
     "new":["01"],
     "trending":[],
-    "free":["01","02","03"],
+    "free":["01","02","03","04"],
     "next":"config.json"
 }

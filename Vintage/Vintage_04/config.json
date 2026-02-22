@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "1.4",
+  "wallpaperId": "Vintage_03",
+  "designFrame": {
+    "width": 1920,
+    "height": 4274,
+    "aspectRatio": 0.4492
+  },
+  "aspectPolicy": "cover",
+  "layers": [
+    {
+      "id": "bg",
+      "type": "image",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 1
+      },
+      "depth": 10,
+      "src": "bg.png"
+    },
+    {
+      "id": "time",
+      "type": "time",
+      "frame": {
+        "cx": 0.486114,
+        "cy": 0.472622,
+        "width": 0.6125,
+        "height": 0.145765
+      },
+      "depth": 20,
+      "textStyle": {
+        "fontFamily": "Cinzel",
+        "fontStyle": "Regular",
+        "fontFullName": "Cinzel-Regular",
+        "fontSrc": "font.ttf",
+        "fontSizeRatio": 1,
+        "color": {
+          "r": 0.10196078568696976,
+          "g": 0.10196078568696976,
+          "b": 0.10196078568696976,
+          "a": 1
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PIXELS"
+        },
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "rotation": 1.57504844529526
+      },
+      "layout": "HH_COLON_MM"
+    },
+    {
+      "id": "date",
+      "type": "date",
+      "frame": {
+        "cx": 0.316487,
+        "cy": 0.403622,
+        "width": 0.264062,
+        "height": 0.028077
+      },
+      "depth": 30,
+      "textStyle": {
+        "fontFamily": "Cinzel",
+        "fontStyle": "Regular",
+        "fontFullName": "Cinzel-Regular",
+        "fontSrc": "font.ttf",
+        "fontSizeRatio": 1,
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.09803921729326248,
+          "b": 0.09803921729326248,
+          "a": 1
+        },
+        "letterSpacing": {
+          "value": 0,
+          "unit": "PIXELS"
+        },
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "rotation": 1.594285261488928
+      },
+      "layout": "DD_SPACE_MMM_SPACE_YYYY"
+    }
+  ]
+}
