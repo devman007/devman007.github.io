@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.4",
-  "wallpaperId": "Vintage_03",
+  "wallpaperId": "Vintage_04",
   "designFrame": {
     "width": 1920,
     "height": 4274,
@@ -24,10 +24,10 @@
       "id": "time",
       "type": "time",
       "frame": {
-        "cx": 0.486114,
-        "cy": 0.472622,
-        "width": 0.6125,
-        "height": 0.145765
+        "cx": 0.5,
+        "cy": 0.5,
+        "width": 0.864583,
+        "height": 0.222274
       },
       "depth": 20,
       "textStyle": {
@@ -37,9 +37,9 @@
         "fontSrc": "font.ttf",
         "fontSizeRatio": 1,
         "color": {
-          "r": 0.10196078568696976,
-          "g": 0.10196078568696976,
-          "b": 0.10196078568696976,
+          "r": 1,
+          "g": 1,
+          "b": 1,
           "a": 1
         },
         "letterSpacing": {
@@ -49,18 +49,18 @@
         "lineHeight": {
           "unit": "AUTO"
         },
-        "rotation": 1.57504844529526
+        "rotation": 0
       },
-      "layout": "HH_COLON_MM"
+      "layout": "HH_MM"
     },
     {
       "id": "date",
       "type": "date",
       "frame": {
-        "cx": 0.316487,
-        "cy": 0.403622,
-        "width": 0.264062,
-        "height": 0.028077
+        "cx": 0.49974,
+        "cy": 0.388746,
+        "width": 0.523438,
+        "height": 0.05592
       },
       "depth": 30,
       "textStyle": {
@@ -70,9 +70,9 @@
         "fontSrc": "font.ttf",
         "fontSizeRatio": 1,
         "color": {
-          "r": 0.09803921729326248,
-          "g": 0.09803921729326248,
-          "b": 0.09803921729326248,
+          "r": 1,
+          "g": 1,
+          "b": 1,
           "a": 1
         },
         "letterSpacing": {
@@ -82,7 +82,7 @@
         "lineHeight": {
           "unit": "AUTO"
         },
-        "rotation": 1.594285261488928
+        "rotation": -1.987846675914698e-16
       },
       "layout": "DD_SPACE_MMM_SPACE_YYYY"
     }
