@@ -4,6 +4,6 @@
     "deactive":[],
     "new":["01"],
     "trending":[],
-    "free":["01","02","03","04"],
+    "free":["01"],
     "next":"config.json"
 }
