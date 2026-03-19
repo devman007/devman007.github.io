@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.4",
-  "wallpaperId": "Animal_01",
+  "wallpaperId": "Animal_02",
   "designFrame": {
     "width": 1920,
     "height": 4274,
@@ -25,7 +25,7 @@
       "type": "time",
       "frame": {
         "cx": 0.49974,
-        "cy": 0.307993,
+        "cy": 0.302378,
         "width": 0.773438,
         "height": 0.18554
       },
@@ -37,9 +37,9 @@
         "fontSrc": "font.ttf",
         "fontSizeRatio": 1,
         "color": {
-          "r": 1,
-          "g": 1,
-          "b": 1,
+          "r": 0.3378998637199402,
+          "g": 0.35122281312942505,
+          "b": 0.4178372919559479,
           "a": 1
         },
         "letterSpacing": {
@@ -58,7 +58,7 @@
       "type": "date",
       "frame": {
         "cx": 0.498698,
-        "cy": 0.226486,
+        "cy": 0.22087,
         "width": 0.340104,
         "height": 0.038839
       },
@@ -70,9 +70,9 @@
         "fontSrc": "font.ttf",
         "fontSizeRatio": 1,
         "color": {
-          "r": 1,
-          "g": 1,
-          "b": 1,
+          "r": 0.3378998637199402,
+          "g": 0.35122281312942505,
+          "b": 0.4178372919559479,
           "a": 1
         },
         "letterSpacing": {
