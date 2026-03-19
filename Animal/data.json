@@ -1,0 +1,9 @@
+{
+    "prefix":"Animal_",
+    "available":["01","02"],
+    "deactive":[],
+    "new":["01"],
+    "trending":[],
+    "free":["01"],
+    "next":"config.json"
+}
