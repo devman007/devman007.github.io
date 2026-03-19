@@ -1,6 +1,6 @@
 {
     "prefix":"Animal_",
-    "available":["01","02"],
+    "available":["01","02","03","04","05","06"],
     "deactive":[],
     "new":["01"],
     "trending":[],
